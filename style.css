@@ -70,10 +70,12 @@ img {
         align-items: center;
     }
     .image-container{
-        margin: 0; 
-        margin-bottom: 20px; 
+        margin: 0px; 
+        margin-top: 50px;
+        margin-bottom: 0px; 
     }
     .text-container{
         text-align: center; 
+        margin-right: 200px;
     }
 }
